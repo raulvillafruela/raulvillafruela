@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raulvillafruela
+- 👀 I’m interested in basketball and football
+- 🌱 I’m currently learning OOP in Java
+- 📚 I’m studying at Loughborough University (UK) 
